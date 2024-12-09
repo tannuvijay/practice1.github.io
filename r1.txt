@@ -1,5 +1,8 @@
 This is Tannu vijay
 E=mc^2
+<<<<<<< HEAD
 a=c+d
 i'm from tonk
 
+=======
+>>>>>>> parent of 9c22e7b (second commit)
