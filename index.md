@@ -37,7 +37,7 @@ for footnote[^1]
 
 [^1]: My reference 
 
-> [!NOTE]
+> [!ALERT]
 > _This is necessary_
 
 
