@@ -1,32 +1,33 @@
-#**PORTFOLIO**
+# **PORTFOLIO**
 
-###**ABOUT**
+### **ABOUT**
 - I am from Tonk, Rajasthan
 * Pursuing B.Tech from MNIT Jaipur
 + having Fun
 - Passionate about learning
 
-###**Education**
--class 10th in 2020
-*Class 12 in 2022
+### **Education**
+- class 10th in 2020
+* Class 12 in 2022
 + JEE in 2023
 
-###**Contacts**
+### **Contacts**
 Mobile no. 925xxxxxxx
+
 Email- abc@gmail.com
 
-###**Interest**
+### **Interest**
 - Like to watch webseries
-*Like to visit
+* Like to visit
 
-###**My Result**
+### **My Result**
 
 | Class | Year | Percentage |
 |-------|------|------------|
 | Xth | 2020 | 92% |
 | XIIth | 2022 | 90% |
 
-###**References**
+### **References**
 [REference](https://www.youtube.com)
 
 
