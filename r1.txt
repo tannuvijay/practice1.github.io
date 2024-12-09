@@ -2,3 +2,5 @@
 bye we welcome you
 hello i am tannu vijay
 
+e=mc^2
+a=x+b
